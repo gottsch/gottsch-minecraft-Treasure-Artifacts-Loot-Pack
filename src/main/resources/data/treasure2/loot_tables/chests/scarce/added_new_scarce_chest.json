@@ -1,0 +1,13 @@
+{
+  "version" : "1.0",
+  "categories" : [ "general" ],
+  "pools" : [ {
+    "name" : "new_scarce",
+    "rolls" : 1,
+    "entries" : [ {
+      "type" : "minecraft:item",
+      "name" : "minecraft:bread",
+      "weight" : 1
+    } ]
+  } ]
+}

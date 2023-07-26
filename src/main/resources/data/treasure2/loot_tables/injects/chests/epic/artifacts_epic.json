@@ -2,14 +2,14 @@
   "version" : "1.0",
   "categories" : [ "general" ],
   "pools" : [ {
-    "name" : "artifacts_common",
+    "name" : "artifacts_epic",
     "rolls" : 1,
     "entries" : [ {
       "type" : "minecraft:item",
       "name" : "artifacts:umbrella",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -17,7 +17,7 @@
       "name" : "artifacts:everlasting_beef",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -25,7 +25,7 @@
       "name" : "artifacts:eternal_steak",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -33,7 +33,7 @@
       "name" : "artifacts:plastic_drinking_hat",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -41,7 +41,7 @@
       "name" : "artifacts:novelty_drinking_hat",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -49,7 +49,7 @@
       "name" : "artifacts:snorkel",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -57,7 +57,7 @@
       "name" : "artifacts:night_vision_goggles",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -65,7 +65,7 @@
       "name" : "artifacts:villager_hat",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -73,7 +73,7 @@
       "name" : "artifacts:superstitious_hat",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -81,7 +81,7 @@
       "name" : "artifacts:lucky_scarf",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -89,7 +89,7 @@
       "name" : "artifacts:scarf_of_invisibility",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -97,7 +97,7 @@
       "name" : "artifacts:cross_necklace",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -105,7 +105,7 @@
       "name" : "artifacts:panic_necklace",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -113,7 +113,7 @@
       "name" : "artifacts:shock_pendant",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -121,7 +121,7 @@
       "name" : "artifacts:flame_pendant",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -129,7 +129,7 @@
       "name" : "artifacts:superstitious_hat",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -137,7 +137,7 @@
       "name" : "artifacts:thorn_pendant",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -145,7 +145,7 @@
       "name" : "artifacts:charm_of_sinking",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -153,7 +153,7 @@
       "name" : "artifacts:cloud_in_a_bottle",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -161,7 +161,7 @@
       "name" : "artifacts:obsidian_skull",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -169,7 +169,7 @@
       "name" : "artifacts:antidote_vessel",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -177,7 +177,7 @@
       "name" : "artifacts:universal_attractor",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -185,7 +185,7 @@
       "name" : "artifacts:crystal_heart",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -193,7 +193,7 @@
       "name" : "artifacts:helium_flamingo",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -201,7 +201,7 @@
       "name" : "artifacts:digging_claws",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -209,7 +209,7 @@
       "name" : "artifacts:feral_claws",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -217,7 +217,7 @@
       "name" : "artifacts:power_glove",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -225,7 +225,7 @@
       "name" : "artifacts:fire_gauntlet",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -233,7 +233,7 @@
       "name" : "artifacts:pocket_piston",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -241,7 +241,7 @@
       "name" : "artifacts:vampiric_glove",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -249,7 +249,7 @@
       "name" : "artifacts:golden_hook",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -257,7 +257,7 @@
       "name" : "artifacts:aqua_dashers",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -265,7 +265,7 @@
       "name" : "artifacts:bunny_hoppers",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -273,7 +273,7 @@
       "name" : "artifacts:kitty_slippers",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -281,7 +281,7 @@
       "name" : "artifacts:running_shoes",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -289,7 +289,7 @@
       "name" : "artifacts:steadfast_spikes",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     }, {
@@ -297,7 +297,7 @@
       "name" : "artifacts:flippers",
       "weight" : 1,
       "conditions" : [ {
-        "condition" : "random_chance",
+        "condition" : "minecraft:random_chance",
         "chance" : 0.15
       } ]
     } ]
